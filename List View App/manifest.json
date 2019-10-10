@@ -1,0 +1,22 @@
+{
+  "name": "View Groups",
+  "author": {
+    "name": "",
+    "email": "",
+    "url": "https://localhost"
+  },
+  "defaultLocale": "en",
+  "private": true,
+  "location": {
+    "support": {
+      "top_bar": {"url":"assets/top_bar.html",
+        "size": {"height":"500px",
+        "width":"500px"}
+                }
+    }
+  },
+  "domainWhitelist": ["zendesk.com"],
+  "version": "0.9",
+  "frameworkVersion": "2.0",
+  "parameters": []
+}

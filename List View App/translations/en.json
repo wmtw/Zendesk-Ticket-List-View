@@ -1,0 +1,8 @@
+{
+  "app": {
+    "name": "List View App",
+    "short_description": "This application groups Views leveraging the same grouping method as Dropdowns. Seperate groups by '::' to create folders.",
+    "long_description": "This application groups Views leveraging the same grouping method as Dropdowns. Seperate groups by '::' to create folders.",
+    "installation_instructions": "Simply click install."
+  }
+}
